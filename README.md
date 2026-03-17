@@ -19,8 +19,10 @@ A solução contém três projetos:
 
 ### Console
 
+depende de qual projeto vc vai rodar :D
+
 ```bash
-dotnet run --project Jokempo --framework net10.0
+dotnet run --project Jokempo --framework net10.0 
 ```
 
 ### Windows Forms
